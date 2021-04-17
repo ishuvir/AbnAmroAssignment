@@ -1,0 +1,7 @@
+common/BaseClass.class
+pages/IOSScreenObject.class
+AndroidTest/AndroidTestValidations.class
+IOSTest/iOSTestValidations.class
+common/BaseFunctions.class
+pages/AndroidScreenObject.class
+common/CommonUtils.class

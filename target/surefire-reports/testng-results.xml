@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-17T17:55:07 CEST" name="AndroidAutomationSuite" finished-at="2021-04-17T17:55:12 CEST" duration-ms="4613">
+    <groups>
+    </groups>
+    <test started-at="2021-04-17T17:55:07 CEST" name="androidTest" finished-at="2021-04-17T17:55:12 CEST" duration-ms="4613">
+      <class name="AndroidTest.AndroidTestValidations">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:AndroidTest.AndroidTestValidations@19f7222e]" started-at="2021-04-17T17:54:53 CEST" name="beforeSuite" finished-at="2021-04-17T17:55:07 CEST" duration-ms="14307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method signature="titleValidation()[pri:0, instance:AndroidTest.AndroidTestValidations@19f7222e]" started-at="2021-04-17T17:55:07 CEST" name="titleValidation" finished-at="2021-04-17T17:55:08 CEST" duration-ms="765" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleValidation -->
+        <test-method signature="optionValidations()[pri:1, instance:AndroidTest.AndroidTestValidations@19f7222e]" started-at="2021-04-17T17:55:08 CEST" name="optionValidations" finished-at="2021-04-17T17:55:10 CEST" duration-ms="1985" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- optionValidations -->
+        <test-method signature="contentalidations()[pri:2, instance:AndroidTest.AndroidTestValidations@19f7222e]" started-at="2021-04-17T17:55:10 CEST" name="contentalidations" finished-at="2021-04-17T17:55:11 CEST" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contentalidations -->
+        <test-method signature="mailValidations()[pri:3, instance:AndroidTest.AndroidTestValidations@19f7222e]" started-at="2021-04-17T17:55:11 CEST" name="mailValidations" finished-at="2021-04-17T17:55:12 CEST" duration-ms="1200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mailValidations -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:AndroidTest.AndroidTestValidations@19f7222e]" started-at="2021-04-17T17:55:12 CEST" name="TearDown" finished-at="2021-04-17T17:55:12 CEST" duration-ms="287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="stopAppiumServer()[pri:0, instance:AndroidTest.AndroidTestValidations@19f7222e]" started-at="2021-04-17T17:55:12 CEST" name="stopAppiumServer" finished-at="2021-04-17T17:55:12 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopAppiumServer -->
+      </class> <!-- AndroidTest.AndroidTestValidations -->
+    </test> <!-- androidTest -->
+  </suite> <!-- AndroidAutomationSuite -->
+</testng-results>

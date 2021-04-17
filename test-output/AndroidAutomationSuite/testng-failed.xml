@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [AndroidAutomationSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="androidTest(failed)">
+    <classes>
+      <class name="AndroidTest.AndroidTestValidations">
+        <methods>
+          <include name="contentalidations"/>
+          <include name="optionValidations"/>
+          <include name="TearDown"/>
+          <include name="stopAppiumServer"/>
+          <include name="titleValidation"/>
+          <include name="beforeSuite"/>
+          <include name="mailValidations"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- AndroidTest.AndroidTestValidations -->
+    </classes>
+  </test> <!-- androidTest(failed) -->
+</suite> <!-- Failed suite [AndroidAutomationSuite] -->

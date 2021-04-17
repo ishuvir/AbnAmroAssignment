@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-17T17:53:13 CEST" name="IOSAutomationSuite" finished-at="2021-04-17T17:53:19 CEST" duration-ms="5998">
+    <groups>
+    </groups>
+    <test started-at="2021-04-17T17:53:13 CEST" name="IOSTest" finished-at="2021-04-17T17:53:19 CEST" duration-ms="5998">
+      <class name="IOSTest.iOSTestValidations">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:IOSTest.iOSTestValidations@7e74a380]" started-at="2021-04-17T17:53:05 CEST" name="beforeSuite" finished-at="2021-04-17T17:53:13 CEST" duration-ms="8028" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method signature="mainBodyValidation()[pri:0, instance:IOSTest.iOSTestValidations@7e74a380]" started-at="2021-04-17T17:53:13 CEST" name="mainBodyValidation" finished-at="2021-04-17T17:53:14 CEST" duration-ms="509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainBodyValidation -->
+        <test-method signature="ButtonUIValidation()[pri:1, instance:IOSTest.iOSTestValidations@7e74a380]" started-at="2021-04-17T17:53:14 CEST" name="ButtonUIValidation" finished-at="2021-04-17T17:53:14 CEST" duration-ms="295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ButtonUIValidation -->
+        <test-method signature="ButtonFunctionalValidation()[pri:2, instance:IOSTest.iOSTestValidations@7e74a380]" started-at="2021-04-17T17:53:14 CEST" name="ButtonFunctionalValidation" finished-at="2021-04-17T17:53:17 CEST" duration-ms="3242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ButtonFunctionalValidation -->
+        <test-method signature="labelCurrencyValidation()[pri:3, instance:IOSTest.iOSTestValidations@7e74a380]" started-at="2021-04-17T17:53:17 CEST" name="labelCurrencyValidation" finished-at="2021-04-17T17:53:18 CEST" duration-ms="692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- labelCurrencyValidation -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:IOSTest.iOSTestValidations@7e74a380]" started-at="2021-04-17T17:53:18 CEST" name="TearDown" finished-at="2021-04-17T17:53:19 CEST" duration-ms="1083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="stopAppiumServer()[pri:0, instance:IOSTest.iOSTestValidations@7e74a380]" started-at="2021-04-17T17:53:19 CEST" name="stopAppiumServer" finished-at="2021-04-17T17:53:19 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopAppiumServer -->
+      </class> <!-- IOSTest.iOSTestValidations -->
+    </test> <!-- IOSTest -->
+  </suite> <!-- IOSAutomationSuite -->
+</testng-results>
